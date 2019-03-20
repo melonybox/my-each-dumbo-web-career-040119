@@ -1,3 +1,3 @@
-def my_each(list) do |i|
-  puts i
+def my_each(list)
+  
 end
